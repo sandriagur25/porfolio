@@ -1,0 +1,97 @@
+.html{
+	position: relative;
+}
+.footer.dasboard{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 10px;
+	font-family: 10px; 
+}
+.body{
+	margin-bottom: 100px;
+	background: gold;
+}
+.jumbotron{
+	background-image: url('../img/portfolio/SAN26.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0-100px;
+	color:#F0FFF0;
+}
+.jumbotron img {
+
+	width: 230px;
+	border:5px solid #eaeaea;
+}
+ hr{
+	width: 230px;
+	border-top: 4px solid#666;
+}
+section{
+	min-height: 400px;
+	margin-top: 100px;
+}
+.portfolio{
+	background-color: rgb(124, 40, 40);
+
+}
+.portfolio.thumbnail{
+	opacity: 0;
+	transform: translate(0,-40px);
+	transition: .5s;
+	background: #666;
+}
+.contack{
+	min-height: 800px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+footer{
+	position: absolute;
+	bottom: 0;
+	background-color :#eee;
+	padding: 10px;
+	height: 100px;
+	width: 100px;}
+.button{
+	margin-bottom: 200px;
+	text-align: right;
+	margin-top: 100px;
+
+}
+.footer{
+	background-color : #eee;
+	padding: 10px;
+	height: 100px;
+	background:#eee; 
+	border: 10px;
+
+
+}
+.footer .copy{
+	color:relative;
+	text-align:center;
+	font-size: 18x;
+	font-color:blue;
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
